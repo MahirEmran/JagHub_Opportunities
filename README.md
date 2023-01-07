@@ -1,2 +1,3 @@
-# JagHub_Opportunities
- Opportunities page for JagHub for FBLA coding and programming 2022-23
+# JagHub Opportunities Page
+
+The opportunities page can be said to have three parts. The first part is the “Explore” section, which hosts app links to advisory articles pertaining to extracurricular activities and a spotlighted high school competition. Next is the Explore section which provides a database of all the North Creek clubs and national clubs, competitions, and volunteering opportunities. Finally, there is the “Individual” section, a collection of original, intelligent tools to help students plan their future. The EC Calendar allows students to mark upcoming events in a calendarized view to better manage their schedule. The Goal Setter allows students to type in goals that they set for themself and confirm, through a set of prompts, whether the goal is SMART (specific, measurable, accurate, reasonable, and time-sensitive). Lastly, the Tracker allows students to compile a list of their extracurricular opportunities, an extremely useful feature come time for resume building and college admissions.
