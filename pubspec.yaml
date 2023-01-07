@@ -1,7 +1,7 @@
 name: mad2_opportunities
 description: Opportunities page for JagHub for FBLA Coding & Programming 2022-23.
 
-version: 1.0.4
+version: 1.0.7
 
 environment:
   sdk: '>=2.18.4 <3.0.0'

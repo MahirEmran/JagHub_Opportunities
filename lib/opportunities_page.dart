@@ -241,7 +241,11 @@ class OpportunitiesPageState extends State<OpportunitiesPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: SingleChildScrollView(
-        child: Flexible(
+        child: Container(
+          width: MediaQuery.of(context).size.width,
+          color: Colors.white,
+          constraints:
+              BoxConstraints(minHeight: MediaQuery.of(context).size.height),
           child: Column(
             children: [
               const Spacer(),
@@ -534,6 +538,8 @@ class OpportunitiesPageState extends State<OpportunitiesPage> {
                 ),
               ),
               Container(
+                width: 350,
+                height: 150,
                 decoration: const BoxDecoration(
                   gradient: LinearGradient(
                     colors: [Colors.red, Colors.purple],
@@ -565,6 +571,8 @@ class OpportunitiesPageState extends State<OpportunitiesPage> {
               const Spacer(),
               const Spacer(),
               Container(
+                width: 350,
+                height: 150,
                 decoration: const BoxDecoration(
                   gradient: LinearGradient(
                     colors: [Colors.red, Colors.purple],
@@ -596,6 +604,8 @@ class OpportunitiesPageState extends State<OpportunitiesPage> {
               const Spacer(),
               const Spacer(),
               Container(
+                width: 350,
+                height: 150,
                 decoration: const BoxDecoration(
                   gradient: LinearGradient(
                     colors: [Colors.red, Colors.purple],
